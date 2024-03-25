@@ -1,1 +1,1 @@
-Moved (here)[https://git.delg.cc/delg/dNotes]
+Moved [here](https://git.delg.cc/delg/dNotes)
